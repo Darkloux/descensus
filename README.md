@@ -1,2 +1,3 @@
-# descensus
+# Descensus
+Documentación básica del proyecto.
 
